@@ -1,0 +1,11 @@
+= Keyla
+
+Originally cloned from https://code.google.com/p/keyla/
+Modified by @Ryzhehvost to satisfy their needs.
+Forked by me to keep tabs and maybe update in the future if I need it.
+
+== Description
+
+This application is intended to replace layout switching shortcuts in Windows.
+
+For example, I use it to switch layouts via [CapsLock] key.
